@@ -188,7 +188,7 @@ Readings:
 - Deep learning – Yann LeCun, Yoshua Bengio & Geoffrey Hinton; https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf
 
 Homework:
-Final project to be presented in Class 7
+- Final project to be presented in Class 7
 
 ## Class 7
 Final project presentation:
