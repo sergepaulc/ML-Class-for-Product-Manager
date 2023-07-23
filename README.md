@@ -134,11 +134,13 @@ Videos:
 - [TensorFlow Extended (TFX) Overview and Pre-training Workflow (TF Dev Summit ’19)](https://www.youtube.com/watch?v=A5wiwT1qFjc) 
 - [TensorFlow Extended (TFX) Post-training Workflow (TF Dev Summit ’19) ](https://www.youtube.com/watch?v=0O201IQlkxc)
 
+
 Facebook:
 
 Readings:
 - [FBLearner](https://engineering.fb.com/2016/05/09/core-data/introducing-fblearner-flow-facebook-s-ai-backbone/) 
 - [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](https://research.facebook.com/publications/applied-machine-learning-at-facebook-a-datacenter-infrastructure-perspective/)
+
 
 Uber:
 
@@ -151,6 +153,7 @@ Readings:
 Videos:
 - [Scaling Machine Learning as a Service at Uber](https://www.youtube.com/watch?v=MpnszJ_3Ong)
 
+
 Twitter:
 
 Readings:
@@ -158,10 +161,12 @@ Readings:
 - [Productionizing ML with workflows at Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows)
 - [Twitter meets TensorFlow](https://blog.twitter.com/engineering/en_us/topics/insights/2018/twittertensorflow)
 
+
 Airbnb:
 
 Video:
 - [Bighead: Airbnb’s end-to-end Machine Learning Platform](https://vimeo.com/274801958)
+
 
 Recommender systems:
 
@@ -169,10 +174,12 @@ Videos:
 - Coursera: [Machine Learning Foundations from the University of Washington: A Case Study Approach – Week 5 Recommender Systems](https://www.coursera.org/learn/ml-foundations/home/week/5)
 - [Presentation of the Coursera class](https://d396qusza40orc.cloudfront.net/phoenixassets/ml-foundations/recommenders-intro-annotated.pdf)
 
+
 Readings:
 - A field study of video recommendations: newest, most similar, most relevant (easy reading):
 - Matrix factorization (not too difficult reading)
 - Factorization machines (difficult reading)
+
 
 Homework:
 Final project to be presented in Class 7
