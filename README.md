@@ -33,16 +33,20 @@ Readings:
 - Wikipedia: Artificial neural network https://en.wikipedia.org/wiki/Artificial_neural_network
 
 Optional (and advanced but interesting):
-	•	Professor Michael Jordan from UC Berkeley, Perspectives and Challenges of ML: https://youtu.be/4inIBmY8dQI
+- Professor Michael Jordan from UC Berkeley, Perspectives and Challenges of ML: https://youtu.be/4inIBmY8dQI
+
 Homework:
-	•	1. You have been hired to be the first Product Designer, Product Manager, or Program Manager for the Intelligence Platform at Sony Kamaji. Your first assignment is to lead the development of an ML application for classifying Sony games. To get started on that assignment, please propose a small draft of your proposed plan for that app. Please put your thoughts in the same google document that you use for your previous homework.
-	•	 2.  Since you completed ahead of schedule and with a lower budget your classification app for Sony games, you are now being asked to develop a segmentation app of SONY users. That app could leverage the labels of your classification apps. Please put your thoughts in the same google document that you use for your previous homework.
-	•	Note: You can be as creative as you want in terms of the product plan that you will use to drive the development of those apps but at least describe the “what” and “why” of the apps, the data sources/features, the possible models, and any KPIs. If you are running out of time, just do something simple in a few sentences for each homework in ½ page. If you have time, do as much as you can 🙂
+1. You have been hired to be the first Product Designer, Product Manager, or Program Manager for the Intelligence Platform at Sony Kamaji. Your first assignment is to lead the development of an ML application for classifying Sony games. To get started on that assignment, please propose a small draft of your proposed plan for that app. Please put your thoughts in the same google document that you use for your previous homework.
+2.  Since you completed ahead of schedule and with a lower budget your classification app for Sony games, you are now being asked to develop a segmentation app of SONY users. That app could leverage the labels of your classification apps. Please put your thoughts in the same google document that you use for your previous homework.
+Note: You can be as creative as you want in terms of the product plan that you will use to drive the development of those apps but at least describe the “what” and “why” of the apps, the data sources/features, the possible models, and any KPIs.
+If you are running out of time, just do something simple in a few sentences for each homework in ½ page. If you have time, do as much as you can 🙂
 
 ## Class 3
 ML University for PM Class 3
+
 Videos and readings:
 Read and watch as much as you can 🙂
+
 Google ML class:
 	•	Descending into ML:
 	◦	Videos: https://youtu.be/qAjFQLydY8E
@@ -54,41 +58,47 @@ Google ML class:
 	◦	Learning rate: https://developers.google.com/machine-learning/crash-course/reducing-loss/learning-rate
 	◦	Optimizing learning rate: https://developers.google.com/machine-learning/crash-course/fitter/graph
 	◦	Stochastic gradient descent: https://developers.google.com/machine-learning/crash-course/reducing-loss/stochastic-gradient-descent
+
 Optional (for those with a math background):
 	•	Understanding gradient descent: https://eli.thegreenplace.net/2016/understanding-gradient-descent/
+
 Homework:
 Answer the following questions. Note: please limit your answers to a few concise sentences:
-	•	What is a labeled training set?
-	•	What are the two most common tasks that a supervised machine learning model can do?
-	•	Give the name of a common task that an unsupervised machine learning model can do?
-	•	What is the difference between a model parameter and a learning algorithm hyperparameter?
-	•	If your model performs great on the training data but generalizes poorly to new instances, what is happening? Can you mention some possible solutions
-	•	What is a test data set and why would you want to use it?
-	•	Why feature engineering is a critical task for a data scientist to perform in order to develop a model that provides some good predictions?
-	•	When training a model, a data scientist might use an algorithm to reduce the cost or loss function of the model? What is in that case, the cost function?
-	•	What are the advantages of using a deep learning model compared to other traditional machine learning models?
-	•	Why deep learning models are somewhat considered as a “black box” model compared for instance to decision trees that are considered as a “white box” model?
+1. What is a labeled training set?
+2. What are the two most common tasks that a supervised machine learning model can do?
+3. Give the name of a common task that an unsupervised machine learning model can do?
+4. What is the difference between a model parameter and a learning algorithm hyperparameter?
+5. If your model performs great on the training data but generalizes poorly to new instances, what is happening? Can you mention some possible solutions
+6. What is a test data set and why would you want to use it?
+7. Why feature engineering is a critical task for a data scientist to perform in order to develop a model that provides some good predictions?
+8. When training a model, a data scientist might use an algorithm to reduce the cost or loss function of the model? What is in that case, the cost function?
+9. What are the advantages of using a deep learning model compared to other traditional machine learning models?
+10. Why deep learning models are somewhat considered as a “black box” model compared for instance to decision trees that are considered as a “white box” model?
 
 ## Class 4
 ML University for PM Class 4
+
 Readings:
-	•	Wikipedia – Support Vector Machine: https://en.wikipedia.org/wiki/Support_vector_machine
-	•	Wikipedia – Hierarchical clustering: https://en.wikipedia.org/wiki/Hierarchical_clustering
+- Wikipedia – Support Vector Machine: https://en.wikipedia.org/wiki/Support_vector_machine
+- Wikipedia – Hierarchical clustering: https://en.wikipedia.org/wiki/Hierarchical_clustering
+
 Deep learning:
+
 Videos:
+
 Training a neural network:
-	•	https://youtu.be/GvQwE2OhL8I
-	•	https://youtu.be/9ZsyQZouOQ8
-	•	https://youtu.be/5u0jaA3qAGk
-	•	https://youtu.be/GlcnxUlrtek
+- https://youtu.be/GvQwE2OhL8I
+- https://youtu.be/9ZsyQZouOQ8
+- https://youtu.be/5u0jaA3qAGk
+- https://youtu.be/GlcnxUlrtek
+
 Homework:
 Final project to be presented in Class 7
-	•	Each student should select an ML application either from her or his organization or outside her or his organization
-	•	The project deliverables shall include least the following sections:
-	◦	ML application:
-	▪	What, why, business case, business plan…
+- Each student should select an ML application either from her or his organization or outside her or his organization
+- The project deliverables shall include least the following sections:
+	- ML application: What, why, business case, business plan…
 	▪	Use cases, user experiences, features, requirements, KPIs…
-	◦	Models:
+	- Models:
 	▪	Model predictions
 	▪	Machine learning tasks
 	▪	Type of learning
