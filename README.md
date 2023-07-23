@@ -121,6 +121,7 @@ Final project to be presented in Class 7
 ## Class 5
 ML University for PM Class 5
 Machine learning pipelines
+
 Google:
 Readings:
 	•	TFX: A TensorFlow-Based Production-Scale Machine Learning Platform
@@ -129,10 +130,12 @@ Videos:
 	•	TensorFlow Extended (TFX) (TensorFlow Dev Summit 2018)
 	•	TensorFlow Extended (TFX) Overview and Pre-training Workflow (TF Dev Summit ’19)
 	•	TensorFlow Extended (TFX) Post-training Workflow (TF Dev Summit ’19)
+
 Facebook:
 Readings:
 	•	FBLearner 
 	•	Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective 
+
 Uber:
 Readings:
 	•	Meet Michelangelo: Uber’s Machine Learning Platform
@@ -141,14 +144,17 @@ Readings:
 	•	Uber’s Big Data Platform: 100+ Petabytes with Minute Latency
 Videos:
 	•	Scaling Machine Learning as a Service at Uber
+
 Twitter:
 Readings:
 	•	Cortex
 	•	Productionizing ML with workflows at Twitter
 	•	Twitter meets TensorFlow
+
 Airbnb:
 Video:
 	•	Bighead: Airbnb’s end-to-end Machine Learning Platform
+
 Recommender systems:
 Videos:
 	•	Coursera: Machine Learning Foundations: A Case Study Approach – Week 5 Recommender Systems: https://www.coursera.org/learn/ml-foundations/home/welcome
@@ -162,11 +168,14 @@ Final project to be presented in Class 7
 
 ## Class 6
 ML University for PM Class 6
+
 Videos:
-	•	Emergence of Locomotion Behaviours in Rich Environments: https://youtu.be/hx_bgoTF7bs
-	•	Everybody Dance Now: https://youtu.be/PCBTZh41Ris
+- Emergence of Locomotion Behaviours in Rich Environments: https://youtu.be/hx_bgoTF7bs
+- Everybody Dance Now: https://youtu.be/PCBTZh41Ris
+
 Readings:
-	•	Deep learning – Yann LeCun, Yoshua Bengio & Geoffrey Hinton; https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf
+- Deep learning – Yann LeCun, Yoshua Bengio & Geoffrey Hinton; https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf
+
 Homework:
 Final project to be presented in Class 7
 
