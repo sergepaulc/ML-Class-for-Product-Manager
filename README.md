@@ -125,45 +125,45 @@ Machine learning pipelines
 
 Google:
 Readings:
-	•	TFX: A TensorFlow-Based Production-Scale Machine Learning Platform
+- TFX: A TensorFlow-Based Production-Scale Machine Learning Platform
 Videos:
-	•	The Anatomy of a Production-Scale Continuously-Training Machine Learning Platform
-	•	TensorFlow Extended (TFX) (TensorFlow Dev Summit 2018)
-	•	TensorFlow Extended (TFX) Overview and Pre-training Workflow (TF Dev Summit ’19)
-	•	TensorFlow Extended (TFX) Post-training Workflow (TF Dev Summit ’19)
+- The Anatomy of a Production-Scale Continuously-Training Machine Learning Platform
+- TensorFlow Extended (TFX) (TensorFlow Dev Summit 2018)
+- TensorFlow Extended (TFX) Overview and Pre-training Workflow (TF Dev Summit ’19)
+- TensorFlow Extended (TFX) Post-training Workflow (TF Dev Summit ’19)
 
 Facebook:
 Readings:
-	•	FBLearner 
-	•	Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective 
+- FBLearner 
+- Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective 
 
 Uber:
 Readings:
-	•	Meet Michelangelo: Uber’s Machine Learning Platform
-	•	Scaling Machine Learning at Uber with Michelangelo
-	•	Michelangelo PyML: Introducing Uber’s Platform for Rapid Python ML Model Development
-	•	Uber’s Big Data Platform: 100+ Petabytes with Minute Latency
+- Meet Michelangelo: Uber’s Machine Learning Platform
+- Scaling Machine Learning at Uber with Michelangelo
+- Michelangelo PyML: Introducing Uber’s Platform for Rapid Python ML Model Development
+- Uber’s Big Data Platform: 100+ Petabytes with Minute Latency
 Videos:
-	•	Scaling Machine Learning as a Service at Uber
+- Scaling Machine Learning as a Service at Uber
 
 Twitter:
 Readings:
-	•	Cortex
-	•	Productionizing ML with workflows at Twitter
-	•	Twitter meets TensorFlow
+- Cortex
+- Productionizing ML with workflows at Twitter
+- Twitter meets TensorFlow
 
 Airbnb:
 Video:
-	•	Bighead: Airbnb’s end-to-end Machine Learning Platform
+- Bighead: Airbnb’s end-to-end Machine Learning Platform
 
 Recommender systems:
 Videos:
-	•	Coursera: Machine Learning Foundations: A Case Study Approach – Week 5 Recommender Systems: https://www.coursera.org/learn/ml-foundations/home/welcome
-	•	Presentation of the Coursera class:: https://drive.google.com/file/d/13vPnLQH4Zitg27DDSxxhVRhQ0tjsHcIA/view?usp=sharing
+- Coursera: Machine Learning Foundations: A Case Study Approach – Week 5 Recommender Systems: https://www.coursera.org/learn/ml-foundations/home/welcome
+- Presentation of the Coursera class:: https://drive.google.com/file/d/13vPnLQH4Zitg27DDSxxhVRhQ0tjsHcIA/view?usp=sharing
 Readings:
-	•	A field study of video recommendations: newest, most similar, most relevant (easy reading):
-	•	Matrix factorization (not too difficult reading)
-	•	Factorization machines (difficult reading)
+- A field study of video recommendations: newest, most similar, most relevant (easy reading):
+- Matrix factorization (not too difficult reading)
+- Factorization machines (difficult reading)
 Homework:
 Final project to be presented in Class 7
 
