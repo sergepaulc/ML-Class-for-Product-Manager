@@ -70,7 +70,7 @@ Homework:
 2. What are the two most common tasks that a supervised machine learning model can do?
 3. Give the name of a common task that an unsupervised machine learning model can do?
 4. What is the difference between a model parameter and a learning algorithm hyperparameter?
-5. If your model performs great on the training data but generalizes poorly to new instances, what is happening? Can you mention some possible solutions
+5. If your model performs great on the training data but generalizes poorly to new instances, what is happening? Can you mention some possible solutions?
 6. What is a test data set and why would you want to use it?
 7. Why feature engineering is a critical task for a data scientist to perform in order to develop a model that provides some good predictions?
 8. When training a model, a data scientist might use an algorithm to reduce the cost or loss function of the model? What is in that case, the cost function?
