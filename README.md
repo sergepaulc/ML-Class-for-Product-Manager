@@ -27,7 +27,6 @@ Videos:
 (Please watch that video a couple of times, until you get it 🙂 We have not covered yet the K-nearest neighbor and Support Vector Machine algorithms but still try to understand those two algos)
 
 Readings:
-- Machine learning for product managers: https://hackernoon.com/machine-learning-for-product-managers-ba9cf8724e57
 - Wikipedia: Decision trees learning https://en.wikipedia.org/wiki/Decision_tree_learning
 - Wikipedia: Ensemble learning https://en.wikipedia.org/wiki/Ensemble_learning
 - Wikipedia: Random forest https://en.wikipedia.org/wiki/Random_forest
@@ -132,7 +131,7 @@ Videos:
 	•	TensorFlow Extended (TFX) Post-training Workflow (TF Dev Summit ’19)
 Facebook:
 Readings:
-	•	 FBLearner 
+	•	FBLearner 
 	•	Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective 
 Uber:
 Readings:
