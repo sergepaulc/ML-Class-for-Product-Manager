@@ -62,7 +62,7 @@ Google ML class:
 	- Stochastic gradient descent: https://developers.google.com/machine-learning/crash-course/reducing-loss/stochastic-gradient-descent
 
 Optional (for those with a math background):
-	- Understanding gradient descent: https://eli.thegreenplace.net/2016/understanding-gradient-descent/
+- Understanding gradient descent: https://eli.thegreenplace.net/2016/understanding-gradient-descent/
 
 Homework:
 - Answer the following questions. Note: please limit your answers to a few concise sentences:
