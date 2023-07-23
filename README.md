@@ -119,6 +119,7 @@ Final project to be presented in Class 7
 	  	- Feature store
 
 ## Class 5
+
 ML University for PM Class 5
 Machine learning pipelines
 
