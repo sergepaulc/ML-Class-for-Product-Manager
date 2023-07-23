@@ -80,8 +80,8 @@ Homework:
 ML University for PM Class 4
 
 Readings:
-- Wikipedia – Support Vector Machine: https://en.wikipedia.org/wiki/Support_vector_machine
-- Wikipedia – Hierarchical clustering: https://en.wikipedia.org/wiki/Hierarchical_clustering
+- Wikipedia: Support Vector Machine: https://en.wikipedia.org/wiki/Support_vector_machine
+- Wikipedia: Hierarchical clustering: https://en.wikipedia.org/wiki/Hierarchical_clustering
 
 Deep learning:
 
@@ -126,24 +126,24 @@ Machine learning pipelines
 Google:
 
 Readings:
-- TFX: A TensorFlow-Based Production-Scale Machine Learning Platform
+- TFX: A TensorFlow-Based Production-Scale Machine Learning Platform https://research.google/pubs/pub46484/
 
 Videos:
-- The Anatomy of a Production-Scale Continuously-Training Machine Learning Platform
-- TensorFlow Extended (TFX) (TensorFlow Dev Summit 2018)
-- TensorFlow Extended (TFX) Overview and Pre-training Workflow (TF Dev Summit ’19)
-- TensorFlow Extended (TFX) Post-training Workflow (TF Dev Summit ’19)
+- The Anatomy of a Production-Scale Continuously-Training Machine Learning Platform https://www.youtube.com/watch?v=fPTwLVCq00U
+- TensorFlow Extended (TFX) (TensorFlow Dev Summit 2018) https://www.youtube.com/watch?v=vdG7uKQ2eKk
+- TensorFlow Extended (TFX) Overview and Pre-training Workflow (TF Dev Summit ’19) https://www.youtube.com/watch?v=A5wiwT1qFjc
+- TensorFlow Extended (TFX) Post-training Workflow (TF Dev Summit ’19) https://www.youtube.com/watch?v=0O201IQlkxc
 
 Facebook:
 
 Readings:
-- FBLearner 
-- Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective 
+- FBLearner https://engineering.fb.com/2016/05/09/core-data/introducing-fblearner-flow-facebook-s-ai-backbone/
+- Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective https://research.facebook.com/publications/applied-machine-learning-at-facebook-a-datacenter-infrastructure-perspective/ 
 
 Uber:
 
 Readings:
-- Meet Michelangelo: Uber’s Machine Learning Platform
+- [Meet Michelangelo: Uber’s Machine Learning Platform](https://www.uber.com/blog/michelangelo-machine-learning-platform/)
 - Scaling Machine Learning at Uber with Michelangelo
 - Michelangelo PyML: Introducing Uber’s Platform for Rapid Python ML Model Development
 - Uber’s Big Data Platform: 100+ Petabytes with Minute Latency
