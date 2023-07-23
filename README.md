@@ -23,6 +23,7 @@ ML University for PM Class 2
 
 Videos:
 - A machine learning primer: https://www.youtube.com/watch?v=1M09i0f3ruI&t=22s
+
 (Please watch that video a couple of times, until you get it 🙂 We have not covered yet the K-nearest neighbor and Support Vector Machine algorithms but still try to understand those two algos)
 
 Readings:
