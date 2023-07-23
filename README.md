@@ -5,27 +5,33 @@ A Gentle Introduction to Machine Learning for Product Managers
 
 ## Class 1
 ML University for PM Class 1
+
 Videos:
-	•	Professor Andrew Ng: Artificial Intelligence is the New Electricity at Stanford GSB: https://youtu.be/21EiKfQYZXc
+- Professor Andrew Ng: Artificial Intelligence is the New Electricity at Stanford GSB: https://youtu.be/21EiKfQYZXc
+
 Readings:
-	•	Wikipedia: Linear regression https://en.wikipedia.org/wiki/Linear_regression
-	•	Wikipedia: Logistic regression https://en.wikipedia.org/wiki/Logistic_regression
-	•	Wikipedia: K-means clustering https://en.wikipedia.org/wiki/K-means_clustering 
+Wikipedia: Linear regression https://en.wikipedia.org/wiki/Linear_regression
+Wikipedia: Logistic regression https://en.wikipedia.org/wiki/Logistic_regression
+Wikipedia: K-means clustering https://en.wikipedia.org/wiki/K-means_clustering 
+
 Homework:
-	•	1. Select a few ML applications that you are using every day on your desktop or your mobile phone. Classify them into supervised or unsupervised learning. Try to identify the source of the data. Try to define how as a product/program manager or a product designer, you will consider those apps successful and which metrics, you might use to measure the app success. Please put your thoughts in a google document that you can share.
-	•	2. Propose a few applications that could be developed using an estimation (based on a regression), a classification (based on a logistic regression), and a segmentation (based on a K-means clustering). Please put your thoughts in a google document that you can share.
+1. Select a few ML applications that you are using every day on your desktop or your mobile phone. Classify them into supervised or unsupervised learning. Try to identify the source of the data. Try to define how as a product/program manager or a product designer, you will consider those apps successful and which metrics, you might use to measure the app success. Please put your thoughts in a google document that you can share.
+2. Propose a few applications that could be developed using an estimation (based on a regression), a classification (based on a logistic regression), and a segmentation (based on a K-means clustering). Please put your thoughts in a google document that you can share.
 
 ## Class 2
 ML University for PM Class 2
+
 Videos:
-	•	A machine learning primer: https://www.youtube.com/watch?v=1M09i0f3ruI&t=22s
-	•	(Please watch that video a couple of times, until you get it 🙂 We have not covered yet the K-nearest neighbor and Support Vector Machine algorithms but still try to understand those two algos)
+A machine learning primer: https://www.youtube.com/watch?v=1M09i0f3ruI&t=22s
+(Please watch that video a couple of times, until you get it 🙂 We have not covered yet the K-nearest neighbor and Support Vector Machine algorithms but still try to understand those two algos)
+
 Readings:
 	•	Machine learning for product managers: https://hackernoon.com/machine-learning-for-product-managers-ba9cf8724e57
 	•	Wikipedia: Decision trees learning https://en.wikipedia.org/wiki/Decision_tree_learning
 	•	Wikipedia: Ensemble learning https://en.wikipedia.org/wiki/Ensemble_learning
 	•	Wikipedia: Random forest https://en.wikipedia.org/wiki/Random_forest
 	•	Wikipedia: Artificial neural network https://en.wikipedia.org/wiki/Artificial_neural_network
+
 Optional (and advanced but interesting):
 	•	Professor Michael Jordan from UC Berkeley, Perspectives and Challenges of ML: https://youtu.be/4inIBmY8dQI
 Homework:
