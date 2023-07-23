@@ -10,9 +10,9 @@ Videos:
 - Professor Andrew Ng: Artificial Intelligence is the New Electricity at Stanford GSB: https://youtu.be/21EiKfQYZXc
 
 Readings:
-Wikipedia: Linear regression https://en.wikipedia.org/wiki/Linear_regression
-Wikipedia: Logistic regression https://en.wikipedia.org/wiki/Logistic_regression
-Wikipedia: K-means clustering https://en.wikipedia.org/wiki/K-means_clustering 
+- Wikipedia: Linear regression https://en.wikipedia.org/wiki/Linear_regression
+- Wikipedia: Logistic regression https://en.wikipedia.org/wiki/Logistic_regression
+- Wikipedia: K-means clustering https://en.wikipedia.org/wiki/K-means_clustering 
 
 Homework:
 1. Select a few ML applications that you are using every day on your desktop or your mobile phone. Classify them into supervised or unsupervised learning. Try to identify the source of the data. Try to define how as a product/program manager or a product designer, you will consider those apps successful and which metrics, you might use to measure the app success. Please put your thoughts in a google document that you can share.
@@ -45,25 +45,25 @@ If you are running out of time, just do something simple in a few sentences for 
 ML University for PM Class 3
 
 Videos and readings:
-Read and watch as much as you can 🙂
+- Read and watch as much as you can 🙂
 
 Google ML class:
-	•	Descending into ML:
-	◦	Videos: https://youtu.be/qAjFQLydY8E
-	◦	Training and loss: https://developers.google.com/machine-learning/crash-course/descending-into-ml/training-and-loss
-	•	Reducing loss:
-	◦	Video: https://youtu.be/CaO0UDJirO4
-	◦	Iterative approach: https://developers.google.com/machine-learning/crash-course/reducing-loss/an-iterative-approach
-	◦	Gradient descent: https://developers.google.com/machine-learning/crash-course/reducing-loss/gradient-descent
-	◦	Learning rate: https://developers.google.com/machine-learning/crash-course/reducing-loss/learning-rate
-	◦	Optimizing learning rate: https://developers.google.com/machine-learning/crash-course/fitter/graph
-	◦	Stochastic gradient descent: https://developers.google.com/machine-learning/crash-course/reducing-loss/stochastic-gradient-descent
+- Descending into ML:
+	- Videos: https://youtu.be/qAjFQLydY8E
+   	- Training and loss: https://developers.google.com/machine-learning/crash-course/descending-into-ml/training-and-loss
+- Reducing loss:
+	- Video: https://youtu.be/CaO0UDJirO4
+ 	- Iterative approach: https://developers.google.com/machine-learning/crash-course/reducing-loss/an-iterative-approach
+  	- Gradient descent: https://developers.google.com/machine-learning/crash-course/reducing-loss/gradient-descent
+  	- Learning rate: https://developers.google.com/machine-learning/crash-course/reducing-loss/learning-rate
+	- Optimizing learning rate: https://developers.google.com/machine-learning/crash-course/fitter/graph
+	- Stochastic gradient descent: https://developers.google.com/machine-learning/crash-course/reducing-loss/stochastic-gradient-descent
 
 Optional (for those with a math background):
-	•	Understanding gradient descent: https://eli.thegreenplace.net/2016/understanding-gradient-descent/
+	- Understanding gradient descent: https://eli.thegreenplace.net/2016/understanding-gradient-descent/
 
 Homework:
-Answer the following questions. Note: please limit your answers to a few concise sentences:
+- Answer the following questions. Note: please limit your answers to a few concise sentences:
 1. What is a labeled training set?
 2. What are the two most common tasks that a supervised machine learning model can do?
 3. Give the name of a common task that an unsupervised machine learning model can do?
@@ -96,25 +96,26 @@ Homework:
 Final project to be presented in Class 7
 - Each student should select an ML application either from her or his organization or outside her or his organization
 - The project deliverables shall include least the following sections:
-	- ML application: What, why, business case, business plan…
-	▪	Use cases, user experiences, features, requirements, KPIs…
+	- ML application:
+   		- What, why, business case, business plan…
+ 		- Use cases, user experiences, features, requirements, KPIs…
 	- Models:
-	▪	Model predictions
-	▪	Machine learning tasks
-	▪	Type of learning
-	▪	Sucess metrics and KPIs
-	◦	Features:
-	▪	Feature sharing
-	◦	Data sets
-	▪	Data lakes
-	▪	Data sources
-	▪	Batch data
-	▪	Streaming data
-	◦	Machine learning pipeline:
-	▪	Training
-	▪	Inference
-	▪	Experimentation
-	▪	Feature store
+ 		- Model predictions
+   		- Machine learning tasks
+		- Type of learning
+  		- Sucess metrics and KPIs
+  	- Features:
+  		- Feature sharing
+  	- Data sets
+		- Data lakes
+		- Data sources
+		- Batch data
+		- Streaming data
+  	- Machine learning pipeline:
+		- Training
+		- Inference
+		- Experimentation
+	  	- Feature store
 
 ## Class 5
 ML University for PM Class 5
