@@ -38,7 +38,8 @@ Optional (and advanced but interesting):
 
 Homework:
 1. You have been hired to be the first Product Designer, Product Manager, or Program Manager for the Intelligence Platform at Sony Kamaji. Your first assignment is to lead the development of an ML application for classifying Sony games. To get started on that assignment, please propose a small draft of your proposed plan for that app. Please put your thoughts in the same google document that you use for your previous homework.
-2.  Since you completed ahead of schedule and with a lower budget your classification app for Sony games, you are now being asked to develop a segmentation app of SONY users. That app could leverage the labels of your classification apps. Please put your thoughts in the same google document that you use for your previous homework.
+2. Since you completed ahead of schedule and with a lower budget your classification app for Sony games, you are now being asked to develop a segmentation app of SONY users. That app could leverage the labels of your classification apps. Please put your thoughts in the same google document that you use for your previous homework.
+
 Note: You can be as creative as you want in terms of the product plan that you will use to drive the development of those apps but at least describe the “what” and “why” of the apps, the data sources/features, the possible models, and any KPIs.
 If you are running out of time, just do something simple in a few sentences for each homework in ½ page. If you have time, do as much as you can 🙂
 
