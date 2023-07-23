@@ -22,15 +22,15 @@ Homework:
 ML University for PM Class 2
 
 Videos:
-A machine learning primer: https://www.youtube.com/watch?v=1M09i0f3ruI&t=22s
+- A machine learning primer: https://www.youtube.com/watch?v=1M09i0f3ruI&t=22s
 (Please watch that video a couple of times, until you get it 🙂 We have not covered yet the K-nearest neighbor and Support Vector Machine algorithms but still try to understand those two algos)
 
 Readings:
-	•	Machine learning for product managers: https://hackernoon.com/machine-learning-for-product-managers-ba9cf8724e57
-	•	Wikipedia: Decision trees learning https://en.wikipedia.org/wiki/Decision_tree_learning
-	•	Wikipedia: Ensemble learning https://en.wikipedia.org/wiki/Ensemble_learning
-	•	Wikipedia: Random forest https://en.wikipedia.org/wiki/Random_forest
-	•	Wikipedia: Artificial neural network https://en.wikipedia.org/wiki/Artificial_neural_network
+- Machine learning for product managers: https://hackernoon.com/machine-learning-for-product-managers-ba9cf8724e57
+- Wikipedia: Decision trees learning https://en.wikipedia.org/wiki/Decision_tree_learning
+- Wikipedia: Ensemble learning https://en.wikipedia.org/wiki/Ensemble_learning
+- Wikipedia: Random forest https://en.wikipedia.org/wiki/Random_forest
+- Wikipedia: Artificial neural network https://en.wikipedia.org/wiki/Artificial_neural_network
 
 Optional (and advanced but interesting):
 	•	Professor Michael Jordan from UC Berkeley, Perspectives and Challenges of ML: https://youtu.be/4inIBmY8dQI
