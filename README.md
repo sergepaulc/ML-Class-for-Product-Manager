@@ -120,7 +120,8 @@ Final project to be presented in Class 7
 
 ## Class 5
 
-[ML University for PM Class 5](https://siliconvalleyinsider.files.wordpress.com/2020/05/ml-university-for-pm-class-5.pdf))
+[ML University for PM Class 5](https://siliconvalleyinsider.files.wordpress.com/2020/05/ml-university-for-pm-class-5.pdf)
+
 Machine learning pipelines
 
 Google:
