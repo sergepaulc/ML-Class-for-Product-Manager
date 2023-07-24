@@ -170,9 +170,9 @@ Videos:
 - [Presentation of the Coursera class](https://d396qusza40orc.cloudfront.net/phoenixassets/ml-foundations/recommenders-intro-annotated.pdf)
 
 Readings:
-- A field study of video recommendations: newest, most similar, most relevant (easy reading):
-- Matrix factorization (not too difficult reading)
-- Factorization machines (difficult reading)
+- [A field study of video recommendations: newest, most similar, most relevant (easy reading)](https://dl.acm.org/doi/pdf/10.1145/3240323.3240395)
+- [Matrix factorization (not too difficult reading)](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf)
+- [Factorization machines (difficult reading)](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
 
 
 Homework:
