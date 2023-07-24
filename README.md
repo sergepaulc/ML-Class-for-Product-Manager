@@ -1,7 +1,8 @@
 # Classes
 
-A Gentle Introduction to Machine Learning for Product Managers
-(B) I taught a machine learning class to Product Managers two years ago. I have slightly updated the content of that class. A lot of Product Managers working on machine learning are contacting me on LinkedIn. So, I am hoping that the following materials might be useful to someone.
+## A Gentle Introduction to Machine Learning for Product Managers
+
+I taught a machine learning class to Product Managers a few years ago. I have slightly updated the content of that class. A lot of Product Managers working on machine learning are contacting me on LinkedIn. So, I am hoping that the following materials might be useful to someone.
 
 ## Class 1
 [ML University for PM Class 1](https://siliconvalleyinsider.files.wordpress.com/2020/05/ml-university-for-pm-class-1.pdf)
