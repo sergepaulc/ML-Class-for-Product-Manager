@@ -4,6 +4,12 @@
 
 I taught a machine learning class to Product Managers a few years ago. I have slightly updated the content of that class. A lot of Product Managers working on machine learning are contacting me on LinkedIn. So, I am hoping that the following materials might be useful to someone.
 
+There are six classes. The seventh class is a final project where students present a machine learning application.
+
+Each class has a powerpoint presentation and include readings, videos to watch, and homework.
+
+The most difficult concepts are presented and discussed in multiple classes in an incremental way.
+
 ## Class 1
 [ML University for PM Class 1](https://siliconvalleyinsider.files.wordpress.com/2020/05/ml-university-for-pm-class-1.pdf)
 
