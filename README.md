@@ -129,7 +129,7 @@ Final project to be presented in Class 7
 
 [ML University for PM Class 5](https://siliconvalleyinsider.files.wordpress.com/2020/05/ml-university-for-pm-class-5.pdf)
 
-Machine learning pipelines
+Machine learning data pipelines
 
 Google:
 
