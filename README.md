@@ -109,8 +109,8 @@ Final project to be presented in Class 7
    		- What, why, business case, business plan…
  		- Use cases, user experiences, features, requirements, KPIs…
 	- Models:
- 		- Model predictions
-   		- Machine learning tasks
+ 		- Machine learning tasks
+   		- Model predictions
 		- Type of learning
   		- Sucess metrics and KPIs
   	- Features:
