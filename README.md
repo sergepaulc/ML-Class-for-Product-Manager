@@ -11,7 +11,7 @@ Each class has a powerpoint presentation and include readings, videos to watch, 
 The most difficult concepts are presented and discussed in multiple classes in an incremental way.
 
 ## Class 1
-[ML University for PM Class 1]()
+ML University for PM Class 1
 
 Videos:
 - Professor Andrew Ng: Artificial Intelligence is the New Electricity at Stanford GSB: https://youtu.be/21EiKfQYZXc
@@ -26,7 +26,7 @@ Homework:
 2. Propose a few applications that could be developed using an estimation (based on a regression), a classification (based on a logistic regression), and a segmentation (based on a K-means clustering). Please put your thoughts in a google document that you can share.
 
 ## Class 2
-[ML University for PM Class 2](https://siliconvalleyinsider.files.wordpress.com/2020/05/ml-university-for-pm-class-2.pdf)
+ML University for PM Class 2
 
 Videos:
 - A machine learning primer: https://www.youtube.com/watch?v=1M09i0f3ruI&t=22s
@@ -50,7 +50,7 @@ Homework:
 Note: You can be as creative as you want in terms of the product plan that you will use to drive the development of those apps but at least describe the “what” and “why” of the apps, the data sources/features, the possible models, and any KPIs. If you are running out of time, just do something simple in a few sentences for each homework in ½ page. If you have time, do as much as you can 🙂
 
 ## Class 3
-[ML University for PM Class 3](https://siliconvalleyinsider.files.wordpress.com/2020/05/ml-university-for-pm-class-3.pdf)
+ML University for PM Class 3
 
 Videos and readings:
 - Read and watch as much as you can 🙂
@@ -84,7 +84,7 @@ Homework:
 10. Why deep learning models are somewhat considered as a “black box” model compared for instance to decision trees that are considered as a “white box” model?
 
 ## Class 4
-[ML University for PM Class 4](https://siliconvalleyinsider.files.wordpress.com/2020/05/ml-university-for-pm-class-4.pdf)
+ML University for PM Class 4
 
 Readings:
 - Wikipedia: Support Vector Machine: https://en.wikipedia.org/wiki/Support_vector_machine
@@ -127,7 +127,7 @@ Final project to be presented in Class 7
 
 ## Class 5
 
-[ML University for PM Class 5](https://siliconvalleyinsider.files.wordpress.com/2020/05/ml-university-for-pm-class-5.pdf)
+ML University for PM Class 5
 
 Machine learning data pipelines
 
@@ -178,9 +178,9 @@ Videos:
 - [Presentation of the Coursera class](https://d396qusza40orc.cloudfront.net/phoenixassets/ml-foundations/recommenders-intro-annotated.pdf)
 
 Readings:
-- [A field study of video recommendations: newest, most similar, most relevant (easy reading)](https://dl.acm.org/doi/pdf/10.1145/3240323.3240395)
-- [Matrix factorization (not too difficult reading)](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf)
-- [Factorization machines (difficult reading)](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
+- A field study of video recommendations: newest, most similar, most relevant (easy reading)
+- Matrix factorization (not too difficult reading)
+- Factorization machines (difficult reading)]
 
 
 Homework:
