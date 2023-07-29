@@ -187,7 +187,7 @@ Homework:
 Final project to be presented in Class 7
 
 ## Class 6
-[ML University for PM Class 6](https://siliconvalleyinsider.files.wordpress.com/2020/05/ml-university-for-pm-class-6.pdf)
+ML University for PM Class 6
 
 Videos:
 - Emergence of Locomotion Behaviours in Rich Environments: https://youtu.be/hx_bgoTF7bs
