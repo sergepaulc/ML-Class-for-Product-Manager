@@ -11,7 +11,7 @@ Each class has a powerpoint presentation and include readings, videos to watch, 
 The most difficult concepts are presented and discussed in multiple classes in an incremental way.
 
 ## Class 1
-[ML University for PM Class 1](https://siliconvalleyinsider.files.wordpress.com/2020/05/ml-university-for-pm-class-1.pdf)
+[ML University for PM Class 1]()
 
 Videos:
 - Professor Andrew Ng: Artificial Intelligence is the New Electricity at Stanford GSB: https://youtu.be/21EiKfQYZXc
