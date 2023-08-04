@@ -182,8 +182,8 @@ Videos:
 
 Readings:
 - [A field study of video recommendations: newest, most similar, most relevant (easy reading)](https://siliconvalleyinsider.files.wordpress.com/2023/08/zhong2018recsys-1.pdf)
--[ Matrix factorization (not too difficult reading)](https://siliconvalleyinsider.files.wordpress.com/2023/08/recommender-systems-netflix-1.pdf)
-- [Factorization machines (difficult reading)]](https://siliconvalleyinsider.files.wordpress.com/2023/08/rendle2010fm-1.pdf)
+- [Matrix factorization (not too difficult reading)](https://siliconvalleyinsider.files.wordpress.com/2023/08/recommender-systems-netflix-1.pdf)
+- [Factorization machines (difficult reading)](https://siliconvalleyinsider.files.wordpress.com/2023/08/rendle2010fm-1.pdf)
 
 
 Homework:
