@@ -1,14 +1,17 @@
 # Classes
 
 ## A Gentle Introduction to Machine Learning for Product Managers
+I taught a machine learning (ML) class to Product Managers one year ago. The goals of this class are to learn the fundamentals of ML technologies so that a product manager can assess the business opportunities for an ML-powered application in an organization, and lead the development and launch of that product while interacting on the technology side with data scientists and machine learning engineers.
 
-I taught a machine learning class to Product Managers a few years ago. I have slightly updated the content of that class. A lot of Product Managers working on machine learning are contacting me on LinkedIn. So, I am hoping that the following materials might be useful to someone.
+I have slightly updated the content of that class. A lot of Product Managers working on machine learning are contacting me on LinkedIn. So, I am hoping that the following materials might be useful to someone.
 
-There are six classes. The seventh class is a final project where students present a machine learning application.
+There are six classes. Class 7 is a final project where students present a machine learning application.
 
-Each class has a powerpoint presentation and include readings, videos to watch, and homework.
+Each class includes a presentation, readings, videos to watch, and homework.
 
 The most difficult concepts are presented and discussed in multiple classes in an incremental way.
+
+There is some easy homework to do from Class 1 to Class 3. Students are expected to work from Class 4 to Class 6 on their final projects.
 
 ## Class 1
 ML University for PM Class 1
