@@ -14,7 +14,7 @@ The most difficult concepts are presented and discussed in multiple classes in a
 There is some easy homework to do from Class 1 to Class 3. Students are expected to work from Class 4 to Class 6 on their final projects.
 
 ## Class 1
-ML University for PM Class 1
+[ML University for PM Class 1](https://siliconvalleyinsider.files.wordpress.com/2023/08/ml_university_for_pm_class_1.pdf)
 
 Videos:
 - Professor Andrew Ng: Artificial Intelligence is the New Electricity at Stanford GSB: https://youtu.be/21EiKfQYZXc
@@ -29,7 +29,7 @@ Homework:
 2. Propose a few applications that could be developed using an estimation (based on a regression), a classification (based on a logistic regression), and a segmentation (based on a K-means clustering). Please put your thoughts in a google document that you can share.
 
 ## Class 2
-ML University for PM Class 2
+[ML University for PM Class 2](https://siliconvalleyinsider.files.wordpress.com/2023/08/ml_university_for_pm_class_2.pdf)
 
 Videos:
 - A machine learning primer: https://www.youtube.com/watch?v=1M09i0f3ruI&t=22s
@@ -53,7 +53,7 @@ Homework:
 Note: You can be as creative as you want in terms of the product plan that you will use to drive the development of those apps but at least describe the “what” and “why” of the apps, the data sources/features, the possible models, and any KPIs. If you are running out of time, just do something simple in a few sentences for each homework in ½ page. If you have time, do as much as you can 🙂
 
 ## Class 3
-ML University for PM Class 3
+[ML University for PM Class 3](https://siliconvalleyinsider.files.wordpress.com/2023/08/ml_university_for_pm_class_3.pdf)
 
 Videos and readings:
 - Read and watch as much as you can 🙂
@@ -87,7 +87,7 @@ Homework:
 10. Why deep learning models are somewhat considered as a “black box” model compared for instance to decision trees that are considered as a “white box” model?
 
 ## Class 4
-ML University for PM Class 4
+[ML University for PM Class 4](https://siliconvalleyinsider.files.wordpress.com/2023/08/ml_university_for_pm_class_4.pdf)
 
 Readings:
 - Wikipedia: Support Vector Machine: https://en.wikipedia.org/wiki/Support_vector_machine
@@ -130,7 +130,7 @@ Final project to be presented in Class 7
 
 ## Class 5
 
-ML University for PM Class 5
+[ML University for PM Class 5](https://siliconvalleyinsider.files.wordpress.com/2023/08/ml_university_for_pm_class_5.pdf)
 
 Machine learning data pipelines
 
@@ -190,7 +190,7 @@ Homework:
 Final project to be presented in Class 7
 
 ## Class 6
-ML University for PM Class 6
+[ML University for PM Class 6](https://siliconvalleyinsider.files.wordpress.com/2023/08/ml_university_for_pm_class_6.pdf)
 
 Videos:
 - Emergence of Locomotion Behaviours in Rich Environments: https://youtu.be/hx_bgoTF7bs
